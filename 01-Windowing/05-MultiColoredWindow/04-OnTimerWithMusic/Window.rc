@@ -1,0 +1,4 @@
+#include "Window.h"
+
+ARM_ICON ICON Ganesha.ico
+ARM_MUSIC WAVE Ganesha.wav
